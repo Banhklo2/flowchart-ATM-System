@@ -1,4 +1,4 @@
-# 🧮 FlowChart Max Value
+# 🧮 FlowChart ATM System
 
 **FlowChart로 ATM 입/출금 로직을 설계하고 Java로 구현한 연습**
 
